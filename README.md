@@ -4,7 +4,7 @@
 
 ## **Time**
 
-O elemento <time> do HTML representa um período específico no tempo. Ele pode incluir o atributo "datetime" para traduzir as datas em um formato machine-readable, permitindo melhores resultados em mecanismos de pesquisa ou recursos personalizados, como lembretes.
+O elemento <time> do HTML representa um período específico no tempo. Para traduzir as datas em um formato machine-readable, podemos incluir o atributo "datetime". Dessa forma, permitimos melhores resultados em mecanismos de pesquisa ou recursos personalizados, como lembretes.
 
 ```html
 <p>O horário de funcionamento é das <time>08:00</time> às <time>17:00</time></p>
